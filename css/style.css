@@ -105,6 +105,10 @@
     margin-right: 8%;
 }
 
+.gallery__img1--vertical {
+    width: 84%;
+}
+
 .meaning__p {
     font-size: 13px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -205,5 +209,9 @@
         gap: 80px;
         padding-top: 40px;
         padding-bottom: 100px;
+    }
+
+    .gallery__img1--vertical {
+        width: 50%;
     }
 }
