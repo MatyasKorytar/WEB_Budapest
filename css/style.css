@@ -116,7 +116,7 @@
     display: none;
 }
 
-@media (min-width: 1600px) {
+@media (min-width: 1500px) {
     .header__h1 {
         font-size: 100px;
     }
